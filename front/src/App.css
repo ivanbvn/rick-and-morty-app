@@ -1,0 +1,22 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+html {
+   height: 100%;
+   background-image: url(https://images3.alphacoders.com/606/606020.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+}
+
+.App {
+   /* text-align: center; */
+   height: 92%;
+}
+
+#root {
+   width: 100%;
+   /* height: 100%; */
+}
+

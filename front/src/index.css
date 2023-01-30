@@ -1,0 +1,13 @@
+
+
+body {
+  margin: 0;
+  font-family: 'Poppins';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100%;
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
